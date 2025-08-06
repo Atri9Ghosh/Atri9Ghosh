@@ -32,7 +32,7 @@
 
 ## 📁 Featured Projects
 
-### 🔐 End-to-End DevSecOps Pipeline
+### 🔐 End-to-End CI/CD Pipeline
 🔧 [CI/CD for Java App](https://github.com/Atri9Ghosh/cicd-pipeline)  
 🔹 Built using Jenkins Declarative Pipeline on AWS EC2  
 🔹 Integrated Trivy, SonarQube, OWASP ZAP for security  
