@@ -1,9 +1,9 @@
 <h1 align="center">Hi there! I'm Atri 👋</h1>
 
 ## 🚀 About Me
-- 🧑‍🎓 Engineering student passionate about **Cloud & DevOps**
+- 🧑‍🎓 Engineering student passionate about **Full-Stack & Cloud**
 - 🌐 Actively looking to contribute to **Open Source Projects**
-- ☁️ Skilled in AWS, Docker, Kubernetes, Terraform
+- ☁️ Skilled in React.js, Node.js, SQL, AWS, Docker, Kubernetes, Terraform
 - 📫 Reach me at: atrighosh1410@gmail.com
 
 ---
@@ -32,11 +32,10 @@
 
 ## 📁 Featured Projects
 
-### 🔐 End-to-End CI/CD Pipeline
-🔧 [CI/CD for Java App](https://github.com/Atri9Ghosh/cicd-pipeline)  
-🔹 Built using Jenkins Declarative Pipeline on AWS EC2  
-🔹 Integrated Trivy, SonarQube, OWASP ZAP for security  
-🔹 Stages: Build, Unit Test, Static Analysis, SAST, DAST, Dockerize, Deploy to Kubernetes
+### 🔐 PeerFund – AI-Driven Micro-Funding Platform
+🔧 [App](https://github.com/Atri9Ghosh/PeerFund)
+🔹 Developed a full-stack crowdfunding platform using React, Node.js, Express, MongoDB, and Clerk that enables creators to post and fund micro-projects with milestone-based payments.
+Integrated Stripe for secure escrow-style transactions and AI (OpenAI API) to summarize project proposals and assess feasibility. Designed analytics dashboards to visualize funding trends, success rates, and engagement metrics.
 
 ---
 
@@ -47,10 +46,10 @@
 
 ---
 
-### 🚀 End-to-End DevOps on Golang App
-🔹 Multi-stage Docker build  
-🔹 Helm-deployed on Kubernetes with ingress + domain mapping  
-🔹 CI: GitHub Actions | CD: Argo CD | Secure deployment with DNS + Ingress
+### 🚀FlowForge – Workflow Automation Platform
+🔧 [App](https://github.com/Atri9Ghosh/FlowForge)
+🔹Built a mini Zapier-style web app using React, Node.js, PostgreSQL, Redis, and BullMQ to automate workflows between multiple APIs (e.g., GitHub, Gmail, Telegram).
+Implemented a queue-based architecture for background job execution and real-time monitoring with Socket.io, ensuring reliability and scalability. Deployed containerized services via Docker with CI/CD using GitHub Actions.
 
 
 ---
