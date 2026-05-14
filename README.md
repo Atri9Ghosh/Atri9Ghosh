@@ -1,8 +1,5 @@
 <h1 align="center">Hi there! I'm Atri 👋</h1>
 
-<h3 align="center">AI • Quant Finance • Data Science • Machine Learning</h3>
-
----
 
 ## 🚀 About Me
 
