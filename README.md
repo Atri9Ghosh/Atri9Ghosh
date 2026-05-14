@@ -1,59 +1,106 @@
 <h1 align="center">Hi there! I'm Atri 👋</h1>
 
-## 🚀 About Me
-- 🧑‍🎓 Engineering student passionate about **Full-Stack & Cloud**
-- 🌐 Actively looking to contribute to **Open Source Projects**
-- ☁️ Skilled in React.js, Node.js, SQL, AWS, Docker, Kubernetes, Terraform
-- 📫 Reach me at: atrighosh1410@gmail.com
+<h3 align="center">AI • Quant Finance • Data Science • Machine Learning</h3>
 
 ---
 
-## 🛠️ My Skills
+## 🚀 About Me
+
+- 🧠 Engineering student passionate about **Artificial Intelligence, Quantitative Finance, and Data Science**
+- 📈 Interested in **Algorithmic Trading, Alpha Research, Financial Analytics, and ML-driven Decision Systems**
+- 🤖 Building projects focused on **Healthcare AI, Predictive Analytics, and Quantitative Modeling**
+- 🌍 Exploring the intersection of **AI + Finance + Real-World Analytics**
+- ☁️ Skilled in Python, Machine Learning, SQL, Power BI, AWS, and Data Engineering workflows
+- 📫 Reach me at: **atrighosh1410@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Shell](https://img.shields.io/badge/-Shell-121011?logo=gnu-bash&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
 
-### ⚙️ DevOps & Cloud
+---
+
+### 🤖 AI / ML / Data Science
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikitlearn&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat)
+
+---
+
+### ☁️ Cloud / Dev Tools
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
-![Helm](https://img.shields.io/badge/-Helm-0F1689?logo=helm&logoColor=white&style=flat)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
-![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7C00?logo=argo&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white&style=flat)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 
 ---
 
-## 📁 Featured Projects
+# 📁 Featured Projects
 
-### 🔐 PeerFund – AI-Driven Micro-Funding Platform
-🔧 [App](https://github.com/Atri9Ghosh/PeerFund)
-🔹 Developed a full-stack crowdfunding platform using React, Node.js, Express, MongoDB, and Clerk that enables creators to post and fund micro-projects with milestone-based payments.
-Integrated Stripe for secure escrow-style transactions and AI (OpenAI API) to summarize project proposals and assess feasibility. Designed analytics dashboards to visualize funding trends, success rates, and engagement metrics.
+## 🏥 Hospital Data Analytics & Financial Performance
+🔧 [GitHub](https://github.com/Atri9Ghosh/Hospital-Data-Analytics)
 
----
-
-### ☁️ Cloud Cost Optimization – AWS
-💡 [Lambda Snapshot Cleaner](https://github.com/Atri9Ghosh/cost-optimization)  
-🔹 Lambda function scans and deletes unused EBS snapshots  
-🔹 Saves significant AWS storage costs using automated optimization logic
+- Built SQL-based healthcare analytics platform using PostgreSQL for patient behavior analysis, operational KPI tracking, and hospital financial reporting.
+- Designed optimized healthcare database schemas and analytical reporting pipelines for data-driven healthcare decision-making.
+- Developed dashboards for monitoring treatment costs, operational efficiency, and clinical performance insights.
 
 ---
 
-### 🚀FlowForge – Workflow Automation Platform
-🔧 [App](https://github.com/Atri9Ghosh/FlowForge)
-🔹Built a mini Zapier-style web app using React, Node.js, PostgreSQL, Redis, and BullMQ to automate workflows between multiple APIs (e.g., GitHub, Gmail, Telegram).
-Implemented a queue-based architecture for background job execution and real-time monitoring with Socket.io, ensuring reliability and scalability. Deployed containerized services via Docker with CI/CD using GitHub Actions.
+## 🧬 Multiple Disease Prediction System
+🔧 [GitHub](https://github.com/Atri9Ghosh/-Disease-Prediction)
 
+- Developed ML-based disease prediction platform using Logistic Regression, Random Forest, and SVM models with feature engineering pipelines.
+- Built interactive Streamlit interface for real-time disease prediction and integrated Power BI dashboards for healthcare analytics.
+- Applied predictive analytics and machine learning techniques on healthcare datasets for multi-class disease classification.
 
 ---
 
-### 🔗 Connect with Me
+## 🔗 HAPI FHIR Integrated Medical Terminology System
+🔧 [GitHub](https://github.com/Atri9Ghosh/hacksih)
+
+- Developed healthcare interoperability platform integrating NAMASTE terminology with ICD-11 standards using HAPI FHIR Server.
+- Built scalable RESTful APIs and healthcare data pipelines using React.js, Node.js, Express.js, and Docker.
+- Enabled standardized healthcare data exchange and FHIR-compliant clinical workflow integration.
+
+---
+
+## 📈 Quantitative Alpha Research
+🔧 WorldQuant BRAIN Platform
+
+- Developed quantitative alpha models using global equity market datasets and alternative financial signals.
+- Automated backtesting and research workflows in Python using BRAIN APIs and statistical analysis techniques.
+- Worked on feature engineering, anomaly detection, and time-series decomposition for predictive signal evaluation.
+
+---
+
+## ☁️ Cloud Cost Optimization – AWS
+🔧 [GitHub](https://github.com/Atri9Ghosh/cost-optimization)
+
+- Built automated AWS Lambda workflows for identifying and removing stale EBS snapshots using Python and Boto3.
+- Integrated CloudWatch monitoring and EventBridge scheduling for scalable cloud optimization operations.
+- Reduced unnecessary cloud storage costs through automated infrastructure management.
+
+---
+
+# 📊 Current Interests
+
+- Quantitative Finance
+- Algorithmic Trading
+- Machine Learning
+- Healthcare Analytics
+- Predictive Modeling
+- Financial Data Science
+- AI Systems
+
+---
+
+## 🔗 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atri-ghosh-058853287/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Atri9Ghosh)
